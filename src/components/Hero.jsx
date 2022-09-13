@@ -14,21 +14,20 @@ const Hero = () => {
         </div>
 
         <div className='flex flex-row justify-between items-center w-full'>
-          <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]'>
-            <br className='sm:block hidden' /> <span className='text-gradient'>Web & Mobile App</span>{' '}
+          <h1 className='flex-1 font-poppins font-semibold ss:text-[55px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]'>
+            <span className='text-gradient'>Exclusive Mobile App & Web Development</span>{' '}
           </h1>
-          <div className='ss:flex hidden md:mr-4 mr-0'>
-            <GetStarted />
-          </div>
         </div>
 
-        <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full'>Development.</h1>
+        <h1 className='font-poppins font-semibold ss:text-[55px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full'>Company.</h1>
         {/* <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         
         </p> */}
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+        <p className={`${styles.paragraph} max-w-[550px] `}>
+          Our complete spectrum of mobile app development and web solutions help startups, small-medium enterprises, and organizations to create
+          outcome-focused solutions with enhanced agility that help them to rapidly reshape, renew and build new capabilities for their business. Our
+          differentiated and personalized services arm brands with the right tools, technologies and quality processes so as to maximize value from IT
+          investments
         </p>
       </div>
 

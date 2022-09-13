@@ -58,23 +58,67 @@ export const features = [
 export const feedback = [
   {
     id: 'feedback-1',
-    content: 'Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.',
+    content: 'Some of the biggest advantages COMPANY NAME has is that design is at the core of their thinking & company',
     name: 'Herman Jensen',
     title: 'Founder & Leader',
     img: people01,
   },
   {
     id: 'feedback-2',
-    content: "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    content:
+      "Thanks to COMPANY NAME work, the website's long checkout time has been cut down two one minute helping the client increase its business",
     name: 'Steve Mark',
     title: 'Founder & Leader',
     img: people02,
   },
   {
     id: 'feedback-3',
-    content: 'It is usually people in the money business, finance, and international trade that are really rich.',
+    content:
+      'The way they think from the user point of view in impressive. great designers & will take your as their own company project to deliver best Designs from Day One',
     name: 'Kenn Gallagher',
     title: 'Founder & Leader',
+    img: people03,
+  },
+];
+export const services = [
+  {
+    id: 'feedback-1',
+    name: 'Web Development',
+    img: people01,
+  },
+  {
+    id: 'feedback-2',
+    name: 'App Development',
+    img: people02,
+  },
+  {
+    id: 'feedback-3',
+    name: 'eCommerce Development',
+    img: people03,
+  },
+  {
+    id: 'feedback-4',
+    name: 'Strategic UI/UX Development',
+    img: people03,
+  },
+  {
+    id: 'feedback-5',
+    name: 'Softwares Development',
+    img: people03,
+  },
+  {
+    id: 'feedback-6',
+    name: 'Front-End Development',
+    img: people03,
+  },
+  {
+    id: 'feedback-7',
+    name: 'Back-End Development',
+    img: people03,
+  },
+  {
+    id: 'feedback-8',
+    name: 'Design System',
     img: people03,
   },
 ];
